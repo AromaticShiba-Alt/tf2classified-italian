@@ -77,7 +77,7 @@
 "ClassTips_10_1_Icon"	"chalf_circle"
 "ClassTips_10_2"		"Resta vicino ai tuoi compagni per garantirgli resistenza al danno e cura passiva!"
 "ClassTips_10_2_Icon"	"chalf_circle"
-"ClassTips_10_3"		"Fai l'indifeso sul campo di battaglia!"
+"ClassTips_10_3"		"Fai l'indifeso quando si combatte!"
 "ClassTips_10_3_Icon"	"chalf_circle"
 
 // ----------------------------------------------------------------
@@ -420,7 +420,7 @@
 "TF_Weapon_Scattergun_Desc"	        "Tranquillo, bello, ho solo improvvisato!"
 // Sniper Rifle
 "TF_Weapon_SniperRifle"			    "Fucile di Precisione"
-"TF_Weapon_SniperRifle_Desc"	    "Fa quello che deve fare."
+"TF_Weapon_SniperRifle_Desc"	    "Fa il suo dovere."
 // Minigun
 "TF_Weapon_Minigun"			        "Mitragliatrice Pesante"
 "TF_Weapon_Minigun_Desc"	        "Sascha non ascolta nemmeno Grosso. Pensi che ascolta TE?"
@@ -429,7 +429,7 @@
 "TF_Weapon_SMG_Desc"	            "Che ne dici? Da vicino siamo entrambi più pericolosi."
 // Syringe Gun
 "TF_Weapon_SyringeGun"		        "Sparasiringhe"
-"TF_Weapon_SyringeGun_Desc"	        "Ooh, sei perfetto come contenitore per gli aghi!"
+"TF_Weapon_SyringeGun_Desc"	        "Ooh, sarai perfetto come contenitore per gli aghi!"
 // Rocket Launcher
 "TF_Weapon_RocketLauncher"		    "Lanciarazzi"
 "TF_Weapon_RocketLauncher_Desc"	    "L'arma perfetta per il Soldato perfetto!"
@@ -438,7 +438,7 @@
 "TF_Weapon_GrenadeLauncher_Desc"	"Lascia fare a me, amico."
 // Stickybomb Launcher
 "TF_Weapon_StickybombLauncher"		"Mortaio a Bombe Adesive"
-"TF_Weapon_StickybombLauncher_Desc"	"Li spedirò in un botto tutti diretti in paradiso se ne avrò bisogno."
+"TF_Weapon_StickybombLauncher_Desc"	"Li spedirò tutti in paradiso in un colpo solo se ne avrò bisogno."
 // Flame Thrower
 "TF_Weapon_FlameThrower"		    "Lanciafiamme"
 "TF_Weapon_FlameThrower_Desc"	    "Le cose iniziano a scaldarsi..."
@@ -448,7 +448,7 @@
 "TF_Weapon_Pistol_Desc_Scout"		"Sono tutti così infuriati, finchè sono vivi."
 // Revolver
 "TF_Weapon_Revolver"		        "Rivoltella"
-"TF_Weapon_Revolver_Desc"	        "Quando la furtività non è  più un opzione."
+"TF_Weapon_Revolver_Desc"	        "Quando la furtività non è più un opzione."
 // PDA: Teleporter (Construction PDA)
 "TF_Weapon_ConstructionPDA"			"PDA da Costruzione"
 "TF_Weapon_ConstructionPDA_Desc"	"Tutto ciò che serve ad un Ingegnere come me, è in questo piccolo aggeggio qui."
@@ -459,13 +459,13 @@
 "TF_Weapon_DisguiseKit"	            "Kit di Travestimento"
 // Medi Gun
 "TF_Weapon_Medigun"			        "Pistola Medica"
-"TF_Weapon_Medigun_Desc"	        "Avete tutti lo stesso gruppo sanguigno, no? Più o meno?"
+"TF_Weapon_Medigun_Desc"	        "Avete tutti lo stesso gruppo sanguigno, vero? Più o meno?"
 // Invis Watch
 "TF_Weapon_InvisWatch"		        "Orologio dell'Invisibilità"
-"TF_Weapon_InvisWatch_Desc"	        "Stiloso. Purtroppo nessuno lo vedrà mai."
+"TF_Weapon_InvisWatch_Desc"	        "Stiloso. Che peccato che non lo vedrà mai nessuno."
 // Sapper
 "TF_Weapon_Sapper"		            "Sabotatore"
-"TF_Weapon_Sapper_Desc"	            "Chi ha lasciato lì quel coso?"
+"TF_Weapon_Sapper_Desc"	            "E questo chi l'ha messo qui?"
 
 // ----------------------------------------------------------------
 // Achievement weapon strings
@@ -473,7 +473,7 @@
 
 // Kritzkrieg
 "TF_Weapon_Kritzkrieg"		        "Kritzkrieg"
-"TF_Weapon_Kritzkrieg_Desc"	        "Vai pure, fai del male in giro! Cosi entrambi ci teniamo impegnati, ja?"
+"TF_Weapon_Kritzkrieg_Desc"	        "Vai pure, fai del male in giro! Cosi ci teniamo impegnati entrambi, ja?"
 // Überspritze
 "TF_Weapon_Uberspritze"			    "Überspritze"
 "TF_Weapon_Uberspritze_Desc"	    "Oh, smettila di dimenarti, è per il tuo bene!"
@@ -488,7 +488,7 @@
 "TF_Weapon_Huntsman_Desc"	        "Che fine ha fatto la cavalleria?"
 // Gunboats
 "TF_Weapon_Gunboats"				"Cannonieri"
-"TF_Weapon_Gunboats_Desc_Soldier"	"Solette fatte di piombo! Perfette per chi vuole barare nella prova fisica dell'esercito."
+"TF_Weapon_Gunboats_Desc_Soldier"	"Solette fatte del miglior piombo in circolazione! Perfette per chi vuole barare nella prova fisica dell'esercito."
 "TF_Weapon_Gunboats_Desc_Demoman"	"Degli stivali così speciali che ti scorderai di avere delle viti piantate ai piedi."
 
 // ----------------------------------------------------------------
@@ -509,7 +509,7 @@
 "TF_Weapon_HuntingRevolver_Desc"	"Pensato per un approccio più offensivo."
 // Fishwhacker
 "TF_Weapon_Fishwhacker"			    "Ammazzapesci"
-"TF_Weapon_Fishwhacker_Desc"	    "Stai fermo, amico. A volte perde un po' di schegge."
+"TF_Weapon_Fishwhacker_Desc"	    "Se stai fermo le schegge fanno meno male."
 // Tranquilizer Gun
 "TF_Weapon_TranquilizerGun"			"Pistola Tranquillante"
 "TF_Weapon_TranquilizerGun_Desc"	"Sogni d'oro, chèri."
@@ -544,7 +544,7 @@
 "TF_Weapon_AntiAircraftCannon_Desc"	"Che pezzo di te Grosso deve mandare a casa da tua mamma?"
 // PDA: Jump Pad
 "TF_Weapon_PDAJumpPad"		        "PDA: Trampolino"
-"TF_Weapon_PDAJumpPad_Desc"	        "Fidati, compare. Con questa vedrai le stelle."
+"TF_Weapon_PDAJumpPad_Desc"	        "Credimi, compare. Questa ti farà vedere le stelle."
 // Harvester
 "TF_Weapon_Harvester"		        "Mietitrice"
 "TF_Weapon_Harvester_Desc"	        "Non chiedere per chi suona la campana."
@@ -558,7 +558,7 @@
 
 // Rejuvenator
 "TF_Weapon_Rejuvenator"			    "Ringiovanitore"
-"TF_Weapon_Rejuvenator_Desc"	    "Cerca di non avvicinarlo agli occhi e alla bocca."
+"TF_Weapon_Rejuvenator_Desc"	    "Tenere lontanto dalla occhi e bocca. O almeno provarci."
 // Admiralty Anchor
 "TF_Weapon_AdmiraltyAnchor"			"Ancora dell'Ammiragliato"
 "TF_Weapon_AdmiraltyAnchor_Desc"	"Nessuna battuta sulla Marina verrà tolleratà nella mia unità."
@@ -567,7 +567,7 @@
 "TF_Weapon_DerbyCane_Desc"	        "Ti senti motivato, caro mio? Meglio così."
 // Cyclops
 "TF_Weapon_Cyclops"			        "Ciclope"
-"TF_Weapon_Cyclops_Desc"	        "In una terra di ciechi, il re sei tu."
+"TF_Weapon_Cyclops_Desc"	        "In una terra dove chiunque è cieco, sei tu che porti la corona."
 
 // ----------------------------------------------------------------
 // Miscellaneous weapon types
@@ -639,8 +639,8 @@
 "Attrib_ApplySelfKnockback"							"Per colpo, infligge contraccolpo inverso a chi la equipaggia"
 "Attrib_WeaponEnemyKnockback_Bonus"					"+%s1% contraccolpo al nemico"
 "Attrib_LifestealCrit"								"Per colpo: Ruba salute alla tua vittima mentre il metro è pieno"
-"Attrib_FlatHealOnAfterburn_Active"					"+%s1 salute guadagnata per ogni colpo di scottatura se attiva"
-"Attrib_RememberTargetsRemainingAfterburn"			"Ricorda la scottatura rimanente dei nemici morti"
+"Attrib_FlatHealOnAfterburn_Active"					"+%s1 salute guadagnata per ogni tick di scottatura se attiva"
+"Attrib_RememberTargetsRemainingAfterburn"			"Tiene conto della scottatura rimanente dei nemici morti"
 "Attrib_OnDeathRemoveTargetsAfterburn"				"Una volta morto: Le  vittime in fiamme vengono estinte"
 "Attrib_Explosive_Bullets"							"Spara proiettili esplosivi"
 "Attrib_CannotUseStoredCrits"						"Quest'arma non può usare critici conservati"
@@ -677,7 +677,7 @@
 "Attrib_CritVsBleed"								"100% colpi critici ai giocatori sanguinanti"
 "Attrib_MinicritWhileDisguised"						"I colpi infliggono mini-critici quando sei travestito"
 "Attrib_TakeMinicritsWhileDisguised"				"Riceverai mini-critici mentre sei travestito"
-"Attrib_ObjectivesGiveMiniCrits"					"Infligge mini-critici ai nemici che catturano, difendono o portano con se obiettivi"
+"Attrib_ObjectivesGiveMiniCrits"					"Infligge mini-critici ai nemici che catturano, difendono o portano con loro obiettivi"
 "Attrib_HeadshotIsMinicrit"							"I colpi alla testa sono mini-critici"
 "Attrib_BuildingsMaxLevel"							"Le costruzioni hanno un massimo livello di %s1"
 "Attrib_UpgradeCost"								"Le costruzioni richiedono %s1 metallo per essere migliorate"
@@ -716,7 +716,7 @@
 "Attrib_HoldFirePreventDetonation"					"Tieni Premuto: Previene la detonazione"
 "Attrib_CritAirborneEnemies"						"Infligge danni critici ai nemici a mezz'aria"
 "Attrib_ModCritAirborneDirectHitOnly"				"Infligge danni critici ai nemici a mezz'aria colpiti da un colpo diretto"
-"Attrib_ObjectivesGiveCrits"						"Infligge danni critici ai nemici che catturano, difendono o portano con se obiettivi"
+"Attrib_ObjectivesGiveCrits"						"Infligge danni critici ai nemici che catturano, difendono o portano con loro obiettivi"
 "Attrib_AddAmmoOnDirectHit"							"Per Colpo Diretto: Ottieni %s1 di munizioni"
 "Attrib_AddAmmoOnDirectHitKill"						"Per Uccisione Con Colpo Diretto: Ottieni %s1 di munizioni"
 "Attrib_AddAmmoOnKill"								"Per Uccisione: Ottieni %s1 di munizioni"
@@ -725,22 +725,22 @@
 "Attrib_HealOnSmack"								"Gli alleati colpiti quando la carica è al massimo saranno curati totalmente"
 "Attrib_MultDamageCrit"								"I colpi critici infliggono %s1% di danno in più"
 "Attrib_DropTeamHealthPackOnKill"					"Rilascia un medikit per la tua squadra per uccisione"
-"Attrib_PassiveAmmoHolstered"						"Le munizione verrano ricaricate passivamente quando l'arma non è attiva"
+"Attrib_PassiveAmmoHolstered"						"Le munizioni verrano ricaricate passivamente quando l'arma non è attiva"
 "Attrib_Backstab"									"Attacca un nemico da dietro per pugnalarlo alle spalle ed ucciderlo in un colpo solo"
 "Attrib_UpgradeRepairBuildings"						"Migliora, ripara e velocizza la costruzione delle costruzioni alleate quando viene colpito"
 "Attrib_AltFire_DetonateStickybombs"				"Fuoco Secondario: Fai esplodere tutte le bombe adesive"
 "Attrib_AltFire_Airblast"							"Fuoco Secondario: Rilascia un soffio di aria compressa\nL'aria compressa devia i nemici e i proiettili, e estingue i compagni in fiamme"
 "Attrib_AltFire_Cloak"								"Fuoco Secondario: Diventa invisibile"
-"Attrib_SapBuildings"								"Disabilita e distrugge lentamente le costruzioni nemiche\nIl travestimento non viene rimosso quando il Sabotatore viene utilizzato"
+"Attrib_SapBuildings"								"Disabilita e distrugge lentamente le costruzioni nemiche\nIl travestimento non viene rimosso durante l'utilizzo"
 "Attrib_ReloadNotActive"							"Quest'arma ricarica automaticamente quando non è attiva"
-"Attrib_Sandvich"									"Mangialo per rigenerare ino a 120 punti salute\nFuoco Secondario: Condividi il tuo pranzo con un amico (Medikit medio)"
+"Attrib_Sandvich"									"Mangialo per rigenerare fino a 120 punti salute\nFuoco Secondario: Condividi il tuo pranzo con un amico (Medikit medio)"
 "Attrib_AltFire_MinicritBoost"						"Fuoco Secondario: Potenzia un membro della squadra con dei mini-critici"
 "Attrib_SplitsIntoBomblets"							"Si divide in 4 candelotti una volta esploso"
 "Attrib_DisabledByWrench"							"Può essere disinnescato dalle Chiavi Inglesi"
 "Attrib_Coilgun"									"I colpi caricati a pieno rimbalzano sui muri, e ti esplodono in mano se sovraccaricati"
 "Attrib_DamageAffectedByCharge"						"Il danno dipende dalla carica attuale"
 "Attrib_JumpPadNoUpgrade"							"I Trampolini non possono essere potenziati"
-"Attrib_AltFire_HasteBoost"							"Fuoco Secondario: Potenzia la rapidità di membro della squadra"
+"Attrib_AltFire_HasteBoost"							"Fuoco Secondario: Potenzia la rapidità di un membro della squadra"
 "Attrib_AltFire_UberBubble"							"Fuoco Secondario: Lancia un dispositivo che garantisce l'invulnerabilità all'interno di un raggio"
 
 // ----------------------------------------------------------------
@@ -936,7 +936,7 @@ Scorta il tuo VIP ai Punti di Controllo seguiti dalla Zona di Fuga per vincere. 
 Nota Bene:
 Se il tuo VIP muore, perderai tutti i Punti di Controllo catturati dal tuo VIP.
 
-Ogni squadra può arrestare la cattura di un Punto di Controllo se il loro VIP non è sul posto.
+Ogni squadra può arrestare la cattura di un Punto di Controllo se il VIP nemico non è sul posto.
 
 Se inizia la Morte Improvvisa, il VIP può essere ucciso per vincere il round!"
 
@@ -1153,7 +1153,7 @@ Le squadre che possiedono i Punti di Controllo iniziali sono scelti casualmente 
 
 // Reset inventory
 "TF_ConfirmDefaultInventory_Title"		"Equipaggiamento di Default"
-"TF_ConfirmDefaultInventory_Message"	"Se sicuro di voler tornare all'equipaggiamento di default per questa classe?"
+"TF_ConfirmDefaultInventory_Message"	"Sei sicuro di voler tornare all'equipaggiamento di default per questa classe?"
 "TF_ConfirmDefaultInventory_OK"			"Si"
 
 // ----------------------------------------------------------------
@@ -1177,7 +1177,7 @@ Le squadre che possiedono i Punti di Controllo iniziali sono scelti casualmente 
 "TF_Voice_Menu_1_3"						"Commando Vocale: Teletrasporto Qui"
 "TF_Voice_Menu_1_4"						"Commando Vocale: Dispenser Qui"
 "TF_Voice_Menu_1_5"						"Commando Vocale: Torretta Qui"
-"TF_Voice_Menu_1_6"						"Commando Vocale: Attiva la CariCa"
+"TF_Voice_Menu_1_6"						"Commando Vocale: Attiva la Carica"
 "TF_Voice_Menu_1_7"						"Commando Vocale: (MEDICo) Stato ÜberCarica"
 "TF_Voice_Menu_2_0"						"Commando Vocale: Aiuto!"
 "TF_Spec_Next"							"Prossimo Obiettivo Spettatore"
@@ -1227,7 +1227,7 @@ Le squadre che possiedono i Punti di Controllo iniziali sono scelti casualmente 
 "TF2c_OptionCategory_ViewModel"			"MODELLO IN PRIMA PERSONA"
 "TF2c_OptionCategory_ClassSpecific"		"SPECIFICO PER CLASSE"
 "TF2c_OptionCategory_Performance"		"PRESTAZIONI"
-"TF2c_OptionCategory_Misc"				"MISTO"
+"TF2c_OptionCategory_Misc"				"VARIE"
 "TF2c_OptionCategory_Replay"			"REPLAY"
 "TF2c_OptionCategory_DemoSupport"		"DEMO"
 "TF2c_OptionCategory_Communication"		"COMMS"
@@ -1256,77 +1256,77 @@ Le squadre che possiedono i Punti di Controllo iniziali sono scelti casualmente 
 
 // Combat
 "TF2C_Option_DamageFeedback"				"Abilita Feedback del Danno"
-"TF2C_Tooltip_DamageFeedback"				"Il Feedback del Danno riproduce suoni contestuali quando si colpisce o si viene colpiti da tipi di danno diversi."
-"TF2C_Option_DamageFeedbackOutgoing"		"Enable outgoing damage feedback"
-"TF2C_Tooltip_DamageFeedbackOutgoing"		"Outgoing damage feedback sounds play when dealing damage to enemies"
-"TF2C_Option_DamageFeedbackOutgoingVolume"	"Damage feedback outgoing volume"
-"TF2C_Tooltip_DamageFeedbackOutgoingVolume"	"The volume of the contextual sounds played when dealing damage"
-"TF2C_Option_DamageFeedbackIncoming"		"Enable incoming damage feedback"
-"TF2C_Tooltip_DamageFeedbackIncoming"		"Incoming damage feedback sounds play when taking damage"
-"TF2C_Option_DamageFeedbackIncomingVolume"	"Damage feedback incoming volume"
-"TF2C_Tooltip_DamageFeedbackIncomingVolume"	"The volume of the contextual sounds played when taking damage"
+"TF2C_Tooltip_DamageFeedback"				"Il feedback del danno riproduce suoni contestuali quando si colpisce o si viene colpiti da tipi di danno diversi."
+"TF2C_Option_DamageFeedbackOutgoing"		"Abilita il feedback del Danno in Uscita"
+"TF2C_Tooltip_DamageFeedbackOutgoing"		"I suoni del feedback del danno in uscita vengono riprodotti quando si danneggiano i nemici"
+"TF2C_Option_DamageFeedbackOutgoingVolume"	"Volume del feedback del danno in Uscita"
+"TF2C_Tooltip_DamageFeedbackOutgoingVolume"	"Il volume dei suoni contestuali riprodotti quando si infligge danno"
+"TF2C_Option_DamageFeedbackIncoming"		"Abilita feedback del danno in entrata"
+"TF2C_Tooltip_DamageFeedbackIncoming"		"I suoni del feedback del danno in entrata vengono riprodotti quando si viene danneggiati"
+"TF2C_Option_DamageFeedbackIncomingVolume"	"Volume del feedback del danno in entrata"
+"TF2C_Tooltip_DamageFeedbackIncomingVolume"	"Il volume dei suoni contestuali riprodotti quando si viene danneggiati"
 
-"TF_CenterFirePreference"         	"Prefer projectiles to fire from the center"
-"TF_CenterFirePreference_Tip"    	"If set, projectiles' spawn position Y coordinate is set to 0 for player; requires player to be disconnected or spectating to apply"
-"TF_BurningDeathAnim"				"Enable burning death animations"
-"TF_BurningDeathAnim_Tip"			"If set, ragdolls will have a chance to play a special death animation when dying from fire"
-"TF_CombatTextBatchingWindow"		"Delay between accumulated combat text damage events"
-"TF_CombatTextBatchingWindow_Tip"	"Maximum delay between damage events in order to batch numbers."
-"TF_CombatTextDropShadow"           "Display combat text with drop shadow"
-"TF_CombatTextDropShadow_Tip"       "If set, shows drop shadow on combat text."
+"TF_CenterFirePreference"         		"Spara proiettili dal centro"
+"TF_CenterFirePreference_Tip"    		"Se abilitato, la coordinata Y della posizione d'origine dei proiettili da te sparati verrà impostata a 0; richiede la disconnesione dal server o il cambio a spettatore per essere applicata"
+"TF_BurningDeathAnim"					"Abilita animazioni di morte per il fuoco"
+"TF_BurningDeathAnim_Tip"				"Se abilitato, le ragdoll avranno una possibilità di riprodurre un'animazione speciale quando il giocatore muore per danni da fuoco"
+"TF_CombatTextBatchingWindow"			"Ritardo tra gli eventi del testo da combattimento accumulato"
+"TF_CombatTextBatchingWindow_Tip"		"Ritardo massimo tra gli eventi del testo da combattimento per essere raggruppati."
+"TF_CombatTextDropShadow"				"Mostra testo da combattimento ombrato"
+"TF_CombatTextDropShadow_Tip"			"Se abilitato, il testo da combattimento sarà accompagnato da un ombra."
 
-// ClassSpecific
-"TF_CyclopsDoubleTap"             	"DEMOMAN: Enable Cyclops Double-Tap"
-"TF_CyclopsDoubleTap_Tip"        	"If set, Cyclops grenades will require a second click to detonate, instead of letting go of primary fire."
-"TF_SapperAwareness"                "ENGINEER: Sapper awareness"
-"TF_SapperAwareness_Tip"            "If set, sapper warning on buildings alerts in an alternative color."
-"TF_SniperBell"					    "SNIPER: Play Sound on Full Charge"
-"TF_SniperBell_Tip"					"Play a sound when the Sniper rifle is fully charged."
-"TF_ZoomSensitivityRatio"			"SNIPER: Zoom Sensitivity Ratio"
-"TF_ZoomSensitivityRatio_Tip"		"Adjusts scoped zoom sensitivity."
-"TF_SpywalkInverted"				"SPY: Use Spywalk by default"
-"TF_SpywalkInverted_Tip"			"If set, uses Spywalk speed by default, and normal movement speed with the Spywalk bind"
-"TF_ViewModelCloakTint"				"SPY: Viewmodel Cloak Tint"
-"TF_ViewModelCloakTint_Tip"			"SPY: Allow viewmodels to be tinted while cloaked."
-"TF_AvoidBecomingVIP"				"CIVILIAN: Avoid becoming the VIP"
-"TF_AvoidBecomingVIP_Tip"			"If set, you won't be usually considered when the game chooses a VIP; you can be still picked if everyone has this option set or if you are voted"
+// ClassSpecific	
+"TF_CyclopsDoubleTap"             		"DEMOLITORE: Abilita il doppio tocco del Ciclope"
+"TF_CyclopsDoubleTap_Tip"        		"Se abilitato, le granate del Ciclope richiederanno un secondo click per essere detonate, invece di rilasciare il tasto del fuoco primario."
+"TF_SapperAwareness"					"INGEGNERE: Allerta Sabotatore"
+"TF_SapperAwareness_Tip"				"Se abilitato, l'allerta del sabotatore sulle tue costruzioni avrà un colore alternativo."
+"TF_SniperBell"							"CECCHINO: Riproduci un suono quando la carica è completa"
+"TF_SniperBell_Tip"						"Riproduci un suono quando il Fucile di Precisione è completamente carico."
+"TF_ZoomSensitivityRatio"				"CECCHINO: Rapporto della Sensibilità dello Zoom"
+"TF_ZoomSensitivityRatio_Tip"			"Regola la sensibilità quando si è in modalità zoom."
+"TF_SpywalkInverted"					"SPIA: Usa la Spywalk di base"
+"TF_SpywalkInverted_Tip"				"Se abilitato, la Spywalk verrà usata come velocità di base, è la velocità normale con il tasto Spywalk"
+"TF_ViewModelCloakTint"					"SPIA: Modelli in prima persona colorati mentre si è invisibili"
+"TF_ViewModelCloakTint_Tip"				"SPIA: Permetti ai modelli in prima persona di essere tinti mentre si è invisibili."
+"TF_AvoidBecomingVIP"					"CIVILE: Evita di diventare il VIP"
+"TF_AvoidBecomingVIP_Tip"				"Se abilitato, non sarai considerato quando il gioco sceglie un nuovo VIP; puoi comunque essere scelto se tutti hanno impostato questa opzione o se sei stato votato"
 
 // HUD
-"TF_LoadoutGrid"                  "Enable loadout grid"
-"TF_LoadoutGrid_Tip"              "If set, the weapon loadout page will be displayed as a grid"
-"TF_HighlightAmmo"				  "Display glow outlines on dropped weapons"
-"TF_HighlightAmmo_Tip"			  "If set, dropped weapons will have glow outlines to highlight their locations"
-"TF_MessageAlert"				  "Enable chat message sound"
-"TF_MessageAlert_Tip"			  "If set, a sound will play when a chat message is received"
-"TF_MessageVolume"				  "Chat message sound volume"
-"TF_MessageVolume_Tip"			  "Sets the volume of chat message sounds"
-"TF_ScoreBoardShowAvatars"		  "Display avatars on the scoreboard"
-"TF_ShowCurrentWeapon"		  	  "Display currently equipped weapon"
-"TF_OverlayToastPosition"         "Position of Steam overlay notifications"
-"TF_TopLeft"                      "Top-left"
-"TF_TopRight"                     "Top-right"
-"TF_BottomLeft"                   "Bottom-left"
-"TF_BottomRight"                  "Bottom-right"
-"TF_OverlayToastInsetHoriz"       "Horizontal inset of Steam notifications"
-"TF_OverlayToastInsetVert"        "Vertical inset of Steam notifications"
-"TF_TargetID_Floating_Health"	  "Target ID - Enable floating healthbar"
-"TF_TargetID_Floating_Health_Tip" "If set, displays healthbar above character"
-"TF_TargetID_Alpha"				  "Target ID - Name plate background transparency"
-"TF_TargetID_Alpha_Tip"			  "Set the translucency the TargetID name plate background"
-"TF_TargetID_Show_Avatars"		  "Target ID - Display Avatars on Target ID"
-"TF_TargetID_Show_Avatars_Tip"	  "Display Steam avatars on Target ID"
-"TF_HideKeybinds"                 "Hide displayed in-game keybinds"
-"TF_HideKeybinds_Tip"			  "Disable display of keybinds shown on in-game HUD."
-"TF_AlternativeTimer"             "Use alternative in-game timer"
-"TF_AlternativeTimer_Tip"         "If set, will use an alternative mono font timer."
-"TF_DisableDropShadow"            "Disable drop shadow"
-"TF_DisableDropShadow_Tip"        "If set, removes drop shadow from most text and images."
-"TF_DeathNoticeMax"               "Death Notice - Maximum visible amount"
-"TF_DeathNoticeMax_Tip"           "Sets the max amount of death notice entries at the same time."
-"TF_DeathNoticeTime"              "Death Notice - Expiry time for entires (in seconds)"
-"TF_DeathNoticeTime_Tip"          "Sets the expiry time for death notice items."
-"TF_GlowEffects"				  "Use glow effects"
-"TF_GlowEffects_Tip" 			  "If set, glow effects will be enabled during the match for objectives like VIPs, Payload carts, and CTF intelligence briefcases."
+"TF_LoadoutGrid"						"Abilita Griglia Equipaggiamento"
+"TF_LoadoutGrid_Tip"					"Se abilitato, la pagina dell'equipaggiamento armi verrà ordinata in una griglia"
+"TF_HighlightAmmo"						"Mostra contorno luminoso sulle armi cadute"
+"TF_HighlightAmmo_Tip"					"Se abilitato, le armi lasciate cadere avranno un contorno luminoso per renderle più visibili"
+"TF_MessageAlert"						"Abilita souno dei messaggi in chat"
+"TF_MessageAlert_Tip"					"Se abilitato, un suono verrà riprodotto quando si riceve un messaggio in chat"
+"TF_MessageVolume"						"Volume del suono dei messaggi in chat"
+"TF_MessageVolume_Tip"					"Regola il volume dei suoni dei messaggi della chat"
+"TF_ScoreBoardShowAvatars"				"Mostra gli avatar sul tabellone"
+"TF_ShowCurrentWeapon"		  			"Mostra l'arma equipaggiata"
+"TF_OverlayToastPosition"				"Posizione delle notifiche dell'overlay di Steam"
+"TF_TopLeft"							"In alto a sinistra"
+"TF_TopRight"							"In alto a destra"
+"TF_BottomLeft"							"In basso a sinistra"
+"TF_BottomRight"						"In basso a destra"
+"TF_OverlayToastInsetHoriz"				"Inserto orizzontale delle notifiche di Steam"
+"TF_OverlayToastInsetVert"				"Inserto verticale delle notifiche di Steam"
+"TF_TargetID_Floating_Health"			"ID Obiettivo - Abilita barra della salute fluttuante"
+"TF_TargetID_Floating_Health_Tip"		"Se abilitato, la barra di salute dei personaggi sarà visibile in gioco"
+"TF_TargetID_Alpha"						"ID Obiettivo - Trasparenza della targhetta nome"
+"TF_TargetID_Alpha_Tip"					"Regola la trasparenza della targhetta nome dell'ID Obiettivo"
+"TF_TargetID_Show_Avatars"				"ID Obiettivo - Mostra avatar nell'ID Obiettivo"
+"TF_TargetID_Show_Avatars_Tip"			"Mostra avatar di steam nell'ID Obiettivo"
+"TF_HideKeybinds"						"Nascondi tasti associati in gioco"
+"TF_HideKeybinds_Tip"					"Non mostrare i tasti associati presenti nell'HUD in gioco"
+"TF_AlternativeTimer"					"Usa timer in gioco alternativo"
+"TF_AlternativeTimer_Tip"				"Se abilitato, un carattere alternativo verrà usato per il timer."
+"TF_DisableDropShadow"					"Disabilita ombra del testo"
+"TF_DisableDropShadow_Tip"				"Se abilitato, l'effetto ombra verrà rimosso dalla maggior parte delle immagini e del testo in gioco."
+"TF_DeathNoticeMax"						"Notifiche di Morte - Massimo numero visibile"
+"TF_DeathNoticeMax_Tip"           		"Imposta il numero massimo di notifiche di morte visibili allo stesso tempo."
+"TF_DeathNoticeTime"					"Notifiche di Morte - Durata della singola notifica (in secondi)"
+"TF_DeathNoticeTime_Tip"				"Imposta la durata delle singole notifiche di morte mostrate in gioco."
+"TF_GlowEffects"						"Mostra contorni luminosi"            
+"TF_GlowEffects_Tip" 					"Se abilitato, gli effetti luminosi per gli obiettivi come il VIP, i Carrelli e la Valigetta in Cattura la Bandiera saranno visibili."
 
 // ViewModel
 
@@ -1388,10 +1388,10 @@ Le squadre che possiedono i Punti di Controllo iniziali sono scelti casualmente 
 // ----------------------------------------------------------------
 
 // Achievement groups
-"Achievement_Group_3000"	"Classi Offensive (%s1 of %s2)"
-"Achievement_Group_3100"	"Classi Difensive (%s1 of %s2)"
-"Achievement_Group_3200"	"Classi di Supporto (%s1 of %s2)"
-"Achievement_Group_3300"	"Mappe e Modalità (%s1 of %s2)"
+"Achievement_Group_3000"								"Classi Offensive (%s1 of %s2)"
+"Achievement_Group_3100"								"Classi Difensive (%s1 of %s2)"
+"Achievement_Group_3200"								"Classi di Supporto (%s1 of %s2)"
+"Achievement_Group_3300"								"Mappe e Modalità (%s1 of %s2)"
 
 // Launch achievements
 "TF2C_ACHIEVEMENT_KILL_WITH_DISTANTRPG_NAME"			"Un Incidente Calcolato"
@@ -1464,13 +1464,13 @@ Le squadre che possiedono i Punti di Controllo iniziali sono scelti casualmente 
 // Discord Rich Presence
 // ----------------------------------------------------------------
 
-"Discord_InMenu"					"Nei menu"
-"Discord_InMenu_ToolTip"			"Menu Principale"
-"Discord_IsLoading"					"Sta caricando..."
-"Discord_IsLoading_ToolTip"			"Caricando..."
-"Discord_InOfficialMap"				"Mappa Ufficiale: %s1"
-"Discord_InCommunityMap"			"Mappa della Comunità: %s1"
-"Discord_InServer_Info"				"Sul server: %s1"
+"Discord_InMenu"							"Nei menu"
+"Discord_InMenu_ToolTip"					"Menu Principale"
+"Discord_IsLoading"							"Sta caricando..."
+"Discord_IsLoading_ToolTip"					"Caricando..."
+"Discord_InOfficialMap"						"Mappa Ufficiale: %s1"
+"Discord_InCommunityMap"					"Mappa della Comunità: %s1"
+"Discord_InServer_Info"						"Sul server: %s1"
 
 // ----------------------------------------------------------------
 // Server Browser
