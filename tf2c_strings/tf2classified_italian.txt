@@ -224,24 +224,24 @@
 // Demoman
 "Tip_4_Count"	"15"
 // Generic
-"Tip_4_1"		"Come Demolitore, press %attack2% to remotely detonate Stickybombs or fizzle out Mines you've placed down."
-"Tip_4_2"		"Come Demolitore, set off explosives beneath your feet to jump great lengths."
-"Tip_4_3"		"Come Demolitore, crouch when preparing for an explosive jump in order to achieve maximum height."
+"Tip_4_1"		"Come Demolitore, premi %attack2% per detonare le bombe adisive o le mine che hai posizionato."
+"Tip_4_2"		"Come Demolitore, posiziona degli esplosivi sotto i tuoi piedi per saltare lunghe distanze."
+"Tip_4_3"		"Come Demolitore, accovacciati mentre ti prepari ad un salto esplosivo per arrivare più in alto possibile."
 // Stock
-"Tip_4_4"		"Come Demolitore, use your Grenade Launcher for direct combat. Airborne grenades detonate immediately upon impact with an enemy."
-"Tip_4_5"		"Come Demolitore, the longer you hold down %attack% with the Stickybomb Launcher, the farther the Stickybomb will shoot."
-"Tip_4_6"		"Come Demolitore, shoot Stickybombs onto walls and ceilings where they're hard to spot."
-"Tip_4_7"		"Come Demolitore, your Bottle can be used for close combat after explosive jumping into enemy territory."
-"Tip_4_8"		"Come Demolitore, your Bottle will deal the same amount of damage regardless of being smashed open."
+"Tip_4_4"		"Come Demolitore, usa il tuo Lanciagranate per il combattimento diretto. Le granate che colpiscono bersagli a mezz'aria esplodono all'impatto."
+"Tip_4_5"		"Come Demolitore, più tempo tieni premuto %attack% con il Mortaio a Bombe Adesive, più lontano verrano lanciate le bombe."
+"Tip_4_6"		"Come Demolitore, lancia le Bombe Adesive dove sono difficili da individuare, come ad esempio muri e soffitti."
+"Tip_4_7"		"Come Demolitore, la tua Bottiglia può essere usata nel combattimento ravvicinato dopo essere atterrato in territorio nemico con un salto esplosivo."
+"Tip_4_8"		"Come Demolitore, la tua Bottiglia infliggerà lo stesso danno che sia rotta o meno."
 // Death & Taxes
-"Tip_4_9"		"Come Demolitore, throw your Dynamite Pack onto busy Control Points in order to clear off any enemies."
-"Tip_4_10"		"Come Demolitore, your Dynamite Pack can be disabled by enemy Engineers. Be mindful when hurling it into Sentry Gun nests."
-"Tip_4_11"		"Come Demolitore, the Gunboats greatly reduce health loss from explosive jumps. Use them when positioning and mobility are especially important."
-"Tip_4_12"		"Come Demolitore, the Mine Layer shoots proximity Mines that automatically detonate if an enemy gets too close. Use it for an automated defense!"
+"Tip_4_9"		"Come Demolitore, lancia il tuo Pacco di Dinamite nei Punti di Controllo affollati per spazzare via i nemici."
+"Tip_4_10"		"Come Demolitore, il tuo Pacco di Dinamite può essere disinnescato dagli Ingegneri nemici. Tienilo a mente quando lo scagli ai nidi di Torrette."
+"Tip_4_11"		"Come Demolitore, i Cannonieri riducono drasticamente la salute persa con i salti esplosivi. Usali quando il posizionamento e la mobilità sono specialmente importanti."
+"Tip_4_12"		"Come Demolitore, le mine lanciate dal Lanciamine esplodono automaticamente quando un nemico si avvicina troppo. Usale per una difesa autonoma!"
 // Double Down
-"Tip_4_13"		"Come Demolitore, EMP grenades shot from the Cyclops will only detonate when you let them. Use this to time an explosive jump or set off a deadly trap!"
-"Tip_4_14"		"Come Demolitore, the Cyclops instantly detonates your own explosives. Go for an aggressive combo kill!"
-"Tip_4_15"		"Come Demolitore, you can use the Cyclops to fizzle out any nearby enemy Stickybombs, Dynamite Packs, and Mines."
+"Tip_4_13"		"Come Demolitore, le granate EMP lanciate dal Ciclope esploderanno solo quando lo deciderai tu. Utilizzale per sincronizzare un salto esplosivo o preparare una trappola mortale!"
+"Tip_4_14"		"Come Demolitore, il Ciclope detona instantaneamente tutti i tuoi esplosivi. Opta per un'uccisione combo aggressiva!"
+"Tip_4_15"		"Come Demolitore, puoi usare il Ciclope per detonare qualsiasi Bomba Adesiva, Pacco di Dinamite e Mina nelle vicinanze piazzata dai nemici."
 
 // Medic
 "Tip_5_Count"	"16"
