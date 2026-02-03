@@ -1276,18 +1276,20 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF_CombatTextDropShadow_Tip"       "If set, shows drop shadow on combat text."
 
 // ClassSpecific
-"TF_CyclopsDoubleTap"             	"DEMOMAN: Enable Cyclops Double-Tap"
+"TF_CyclopsDoubleTap"             	"DEMOMAN: Enable cyclops double-tap"
 "TF_CyclopsDoubleTap_Tip"        	"If set, Cyclops grenades will require a second click to detonate, instead of letting go of primary fire."
+"TF_CyclopsProjectilePitch"			"DEMOMAN: Cyclops projectile pitch"
+"TF_CyclopsProjectilePitch_Tip"		"Adjusts pitch of cyclops projectile beep"
 "TF_SapperAwareness"                "ENGINEER: Sapper awareness"
 "TF_SapperAwareness_Tip"            "If set, sapper warning on buildings alerts in an alternative color."
 "TF_SniperBell"					    "SNIPER: Play Sound on Full Charge"
-"TF_SniperBell_Tip"					"Play a sound when the Sniper rifle is fully charged."
-"TF_ZoomSensitivityRatio"			"SNIPER: Zoom Sensitivity Ratio"
-"TF_ZoomSensitivityRatio_Tip"		"Adjusts scoped zoom sensitivity."
+"TF_SniperBell_Tip"					"Play a sound when the Sniper rifle is fully charged"
+"TF_ZoomSensitivityRatio"			"SNIPER: Zoom sensitivity ratio"
+"TF_ZoomSensitivityRatio_Tip"		"Adjusts scoped zoom sensitivity"
 "TF_SpywalkInverted"				"SPY: Use Spywalk by default"
 "TF_SpywalkInverted_Tip"			"If set, uses Spywalk speed by default, and normal movement speed with the Spywalk bind"
-"TF_ViewModelCloakTint"				"SPY: Viewmodel Cloak Tint"
-"TF_ViewModelCloakTint_Tip"			"SPY: Allow viewmodels to be tinted while cloaked."
+"TF_ViewModelCloakTint"				"SPY: Viewmodel cloak tint"
+"TF_ViewModelCloakTint_Tip"			"SPY: Allow viewmodels to be tinted while cloaked"
 "TF_AvoidBecomingVIP"				"CIVILIAN: Avoid becoming the VIP"
 "TF_AvoidBecomingVIP_Tip"			"If set, you won't be usually considered when the game chooses a VIP; you can be still picked if everyone has this option set or if you are voted"
 
@@ -1346,13 +1348,19 @@ Team ownership of Control Points is randomized at the start of each round."
 
 // Voice
 "TF2c_Option_Proximity_Voice_Local"	"Enable Proximity Voice Chat."
-// MULTIPLAYER
+
+// Multiplayer
+
+"TF_MessageAlert"					"Chat message alert"
+"TF_MessageAlert_Tip"				"If set, a sound will play whenever a chat message is recieved" 
+"TF_MessageVolume"					"Chat message alert volume"
+"TF_ChatCloseOnSend"				"Close chat on message send"
+"TF_ChatCloseOnSend_Tip"			"If set, closes chat after sending a message"
 "TF_DownloadFilter_Title"			"Permissions for custom files downloaded from servers"
 "GameUI_DownloadFilter_All"			"Allow all custom files"
 "GameUI_DownloadFilter_NoSounds"	"No custom sounds"
 "GameUI_DownloadFilter_MapsOnly"	"Only map files"
 "GameUI_DownloadFilter_None"		"No custom files"
-
 "TF_Network_Rate"       			"Network update rate"
 "TF_Network_Rate_Tip"       		"Sets network update rate, which inversely sets interpolation amount.\n\nRecommended to try each and see which feels best on your network connection."
 
