@@ -383,32 +383,32 @@
 // ----------------------------------------------------------------
 
 // Bat
-"TF_Weapon_Bat"			"Mazza"
-"TF_Weapon_Bat_Desc"	"Ne ho un bel po' di queste. Non ho mica paura a rompertene una in testa."
+"TF_Weapon_Bat"			            "Mazza"
+"TF_Weapon_Bat_Desc"	            "Ne ho un bel po' di queste. Non ho mica paura a rompertene una in testa."
 // Bottle
-"TF_Weapon_Bottle"		"Bottiglia"
-"TF_Weapon_Bottle_Desc"	"No, no, è fatta per bere!"
+"TF_Weapon_Bottle"		            "Bottiglia"
+"TF_Weapon_Bottle_Desc"	            "No, no, è fatta per bere!"
 // Fire Axe
-"TF_Weapon_FireAxe"			"Accetta"
-"TF_Weapon_FireAxe_Desc"	"Insegna la preziosa lezione di non giocare col fuoco."
+"TF_Weapon_FireAxe"			        "Accetta"
+"TF_Weapon_FireAxe_Desc"	        "Insegna la preziosa lezione di non giocare col fuoco."
 // Kukri
-"TF_Weapon_Kukri"		"Kukri"
-"TF_Weapon_Kukri_Desc"	"Accoltellato da un cecchio. Questa si che fa ridere."
+"TF_Weapon_Kukri"		            "Kukri"
+"TF_Weapon_Kukri_Desc"	            "Accoltellato da un cecchio. Questa si che fa ridere."
 // Knife
-"TF_Weapon_Knife"		"Coltello"
-"TF_Weapon_Knife_Desc"	"Per colui che ama vedere lo svolgersi delle vicende."
+"TF_Weapon_Knife"		            "Coltello"
+"TF_Weapon_Knife_Desc"	            "Per colui che ama vedere lo svolgersi delle vicende."
 // Fists
-"TF_Weapon_Fists"		"Pugni"
-"TF_Weapon_Fists_Desc"	"Non ho ancora finito con te!"
+"TF_Weapon_Fists"		            "Pugni"
+"TF_Weapon_Fists_Desc"	            "Non ho ancora finito con te!"
 // Shovel
-"TF_Weapon_Shovel"		"Pala"
-"TF_Weapon_Shovel_Desc"	"Seppellisci i tuoi nemici in tempo di guerra, e ruba dalle loro tombe in tempo di pace."
+"TF_Weapon_Shovel"		            "Pala"
+"TF_Weapon_Shovel_Desc"	            "Seppellisci i tuoi nemici in tempo di guerra, e ruba dalle loro tombe in tempo di pace."
 // Wrench
-"TF_Weapon_Wrench"		"Chiave Inglese"
-"TF_Weapon_Wrench_Desc"	"Diciamo che faccio un po' di tutto!"
+"TF_Weapon_Wrench"		            "Chiave Inglese"
+"TF_Weapon_Wrench_Desc"	            "Diciamo che faccio un po' di tutto!"
 // Bonesaw
-"TF_Weapon_Bonesaw"			"Segaossa"
-"TF_Weapon_Bonesaw_Desc"	"Non preoccuparti, il sangue non è mio! ...O forse, ora che lo guardo bene, non ne sono così sicuro."
+"TF_Weapon_Bonesaw"			        "Segaossa"
+"TF_Weapon_Bonesaw_Desc"	        "Non preoccuparti, il sangue non è mio! ...O forse, ora che lo guardo bene, non ne sono così sicuro."
 // Shotgun
 "TF_Weapon_Shotgun"					"Fucile a Pompa"
 "TF_Weapon_Shotgun_Desc_Engineer"	"A volte, ti tocca proprio fare le cose da solo."
@@ -416,23 +416,23 @@
 "TF_Weapon_Shotgun_Desc_Heavy"		"Grosso fare tante cose con questo."
 "TF_Weapon_Shotgun_Desc_Pyro"		"Facciamo parlare lui."
 // Scattergun
-"TF_Weapon_Scattergun"		"Fucile a Canne Mozze"
-"TF_Weapon_Scattergun_Desc"	"Tranquillo, bello, ho solo improvvisato!"
+"TF_Weapon_Scattergun"		        "Fucile a Canne Mozze"
+"TF_Weapon_Scattergun_Desc"	        "Tranquillo, bello, ho solo improvvisato!"
 // Sniper Rifle
-"TF_Weapon_SniperRifle"			"Fucile di Precisione"
-"TF_Weapon_SniperRifle_Desc"	"Fa quello che deve fare."
+"TF_Weapon_SniperRifle"			    "Fucile di Precisione"
+"TF_Weapon_SniperRifle_Desc"	    "Fa quello che deve fare."
 // Minigun
-"TF_Weapon_Minigun"			"Mitragliatrice Pesante"
-"TF_Weapon_Minigun_Desc"	"Sascha non ascolta nemmeno Grosso. Pensi che ascolta TE?"
+"TF_Weapon_Minigun"			        "Mitragliatrice Pesante"
+"TF_Weapon_Minigun_Desc"	        "Sascha non ascolta nemmeno Grosso. Pensi che ascolta TE?"
 // SMG
-"TF_Weapon_SMG"			"Mitraglietta"
-"TF_Weapon_SMG_Desc"	"Che ne dici? Da vicino siamo entrambi più pericolosi."
+"TF_Weapon_SMG"			            "Mitraglietta"
+"TF_Weapon_SMG_Desc"	            "Che ne dici? Da vicino siamo entrambi più pericolosi."
 // Syringe Gun
-"TF_Weapon_SyringeGun"		"Sparasiringhe"
-"TF_Weapon_SyringeGun_Desc"	"Ooh, sei perfetto come contenitore per gli aghi!"
+"TF_Weapon_SyringeGun"		        "Sparasiringhe"
+"TF_Weapon_SyringeGun_Desc"	        "Ooh, sei perfetto come contenitore per gli aghi!"
 // Rocket Launcher
-"TF_Weapon_RocketLauncher"		"Lanciarazzi"
-"TF_Weapon_RocketLauncher_Desc"	"L'arma perfetta per il Soldato perfetto!"
+"TF_Weapon_RocketLauncher"		    "Lanciarazzi"
+"TF_Weapon_RocketLauncher_Desc"	    "L'arma perfetta per il Soldato perfetto!"
 // Grenade Launcher
 "TF_Weapon_GrenadeLauncher"			"Lanciagranate"
 "TF_Weapon_GrenadeLauncher_Desc"	"Lascia fare a me, amico."
@@ -440,134 +440,134 @@
 "TF_Weapon_StickybombLauncher"		"Mortaio a Bombe Adesive"
 "TF_Weapon_StickybombLauncher_Desc"	"Li spedirò in un botto tutti diretti in paradiso se ne avrò bisogno."
 // Flame Thrower
-"TF_Weapon_FlameThrower"		"Lanciafiamme"
-"TF_Weapon_FlameThrower_Desc"	"Le cose iniziano a scaldarsi..."
+"TF_Weapon_FlameThrower"		    "Lanciafiamme"
+"TF_Weapon_FlameThrower_Desc"	    "Le cose iniziano a scaldarsi..."
 // Pistol
 "TF_Weapon_Pistol"					"Pistola"
 "TF_Weapon_Pistol_Desc_Engineer"	"Io se fossi in te inizierei a ballare, che ne dici?"
-"TF_Weapon_Pistol_Desc_Scout"		"Si infuriano tutti, finchè sono ancora vivi."
+"TF_Weapon_Pistol_Desc_Scout"		"Sono tutti così infuriati, finchè sono vivi."
 // Revolver
-"TF_Weapon_Revolver"		"Rivoltella"
-"TF_Weapon_Revolver_Desc"	"Quando la furtività non è  più un opzione."
+"TF_Weapon_Revolver"		        "Rivoltella"
+"TF_Weapon_Revolver_Desc"	        "Quando la furtività non è  più un opzione."
 // PDA: Teleporter (Construction PDA)
 "TF_Weapon_ConstructionPDA"			"PDA da Costruzione"
-"TF_Weapon_ConstructionPDA_Desc"	"Tutto quello che serve ad un Ingegnere come me, è in questo piccolo aggeggio qui."
+"TF_Weapon_ConstructionPDA_Desc"	"Tutto ciò che serve ad un Ingegnere come me, è in questo piccolo aggeggio qui."
 "TF_Weapon_PDATeleporter"			"PDA: Teletrasporto"
 // Destruction PDA
-"TF_Weapon_DestructionPDA"	"PDA da Demolizione"
+"TF_Weapon_DestructionPDA"	        "PDA da Demolizione"
 // Disguise Kit
-"TF_Weapon_DisguiseKit"	"Kit di Travestimento"
+"TF_Weapon_DisguiseKit"	            "Kit di Travestimento"
 // Medi Gun
-"TF_Weapon_Medigun"			"Pistola Medica"
-"TF_Weapon_Medigun_Desc"	"Avete tutti lo stesso gruppo sanguigno, no? Più o meno?"
+"TF_Weapon_Medigun"			        "Pistola Medica"
+"TF_Weapon_Medigun_Desc"	        "Avete tutti lo stesso gruppo sanguigno, no? Più o meno?"
 // Invis Watch
-"TF_Weapon_InvisWatch"		"Orologio dell'Invisibilità"
-"TF_Weapon_InvisWatch_Desc"	"Stiloso. Purtroppo nessuno lo vedrà mai."
+"TF_Weapon_InvisWatch"		        "Orologio dell'Invisibilità"
+"TF_Weapon_InvisWatch_Desc"	        "Stiloso. Purtroppo nessuno lo vedrà mai."
 // Sapper
-"TF_Weapon_Sapper"		"Sabotatore"
-"TF_Weapon_Sapper_Desc"	"Chi ha lasciato lì quel coso?"
+"TF_Weapon_Sapper"		            "Sabotatore"
+"TF_Weapon_Sapper_Desc"	            "Chi ha lasciato lì quel coso?"
 
 // ----------------------------------------------------------------
 // Achievement weapon strings
 // ----------------------------------------------------------------
 
 // Kritzkrieg
-"TF_Weapon_Kritzkrieg"		"Kritzkrieg"
-"TF_Weapon_Kritzkrieg_Desc"	"Vai pure, fai del male in giro! Cosi lavoriamo entrambi, ja?"
+"TF_Weapon_Kritzkrieg"		        "Kritzkrieg"
+"TF_Weapon_Kritzkrieg_Desc"	        "Vai pure, fai del male in giro! Cosi entrambi ci teniamo impegnati, ja?"
 // Überspritze
-"TF_Weapon_Uberspritze"			"Überspritze"
-"TF_Weapon_Uberspritze_Desc"	"Oh, smettila di dimenarti, è per il tuo bene!"
+"TF_Weapon_Uberspritze"			    "Überspritze"
+"TF_Weapon_Uberspritze_Desc"	    "Oh, smettila di dimenarti, è per il tuo bene!"
 // Flare Gun
-"TF_Weapon_FlareGun"		"Pistola Segnaletica"
-"TF_Weapon_FlareGun_Desc"	"Oh no, qualcuno va a fuoco! Svelto, manda un segnale di soccorso!"
+"TF_Weapon_FlareGun"		        "Pistola Lanciarazzi"
+"TF_Weapon_FlareGun_Desc"	        "Oh no, qualcuno va a fuoco! Svelto, manda un segnale di soccorso!"
 // Sandvich
-"TF_Weapon_Sandvich"		"Sandvich"
-"TF_Weapon_Sandvich_Desc"	"Vieni più vicino! Ti darò sapore."
+"TF_Weapon_Sandvich"		        "Sandvich"
+"TF_Weapon_Sandvich_Desc"	        "Vieni più vicino! Ti darò sapore."
 // Huntsman
-"TF_Weapon_Huntsman"		"Arco da Cacciatore"
-"TF_Weapon_Huntsman_Desc"	"Che fine ha fatto la cavalleria?"
+"TF_Weapon_Huntsman"		        "Arco da Cacciatore"
+"TF_Weapon_Huntsman_Desc"	        "Che fine ha fatto la cavalleria?"
 // Gunboats
 "TF_Weapon_Gunboats"				"Cannonieri"
 "TF_Weapon_Gunboats_Desc_Soldier"	"Solette fatte di piombo! Perfette per chi vuole barare nella prova fisica dell'esercito."
-"TF_Weapon_Gunboats_Desc_Demoman"	"Degli stivali così speciali che ti scorderai di avere delle viti sotto ai piedi."
+"TF_Weapon_Gunboats_Desc_Demoman"	"Degli stivali così speciali che ti scorderai di avere delle viti piantate ai piedi."
 
 // ----------------------------------------------------------------
 // Death & Taxes weapon strings
 // ----------------------------------------------------------------
 
 // Umbrella
-"TF_Weapon_Umbrella"		"Ombrello"
-"TF_Weapon_Umbrella_Desc"	"Un uomo di classe rimane asciutto."
+"TF_Weapon_Umbrella"		        "Ombrello"
+"TF_Weapon_Umbrella_Desc"	        "Un uomo di vera classe rimane asciutto."
 // Nail Gun
-"TF_Weapon_NailGun"			"Sparachiodi
-"TF_Weapon_NailGun_Desc"	"Si, poco dopo mi hanno licenziato."
+"TF_Weapon_NailGun"			        "Sparachiodi
+"TF_Weapon_NailGun_Desc"	        "Si, poco dopo mi hanno licenziato."
 // R.P.G.
-"TF_Weapon_RPG"			"R.P.G."
-"TF_Weapon_RPG_Desc"	"Vedi come il razzo spunta dalla parte davanti, figliolo? Vuole essere libero. E per Dio, lo sarà."
+"TF_Weapon_RPG"			            "R.P.G."
+"TF_Weapon_RPG_Desc"	            "Vedi come il razzo spunta dalla parte davanti, figliolo? Vuole essere libero. E per Dio, lo sarà."
 // Hunting Revolver
 "TF_Weapon_HuntingRevolver"			"Fucile da Caccia"
 "TF_Weapon_HuntingRevolver_Desc"	"Pensato per un approccio più offensivo."
 // Fishwhacker
-"TF_Weapon_Fishwhacker"			"Ammazzapesci"
-"TF_Weapon_Fishwhacker_Desc"	"Stai fermo, amico. Tende a perdere un po' di schegge."
+"TF_Weapon_Fishwhacker"			    "Ammazzapesci"
+"TF_Weapon_Fishwhacker_Desc"	    "Stai fermo, amico. A volte perde un po' di schegge."
 // Tranquilizer Gun
 "TF_Weapon_TranquilizerGun"			"Pistola Tranquillante"
 "TF_Weapon_TranquilizerGun_Desc"	"Sogni d'oro, chèri."
 // Dynamite Pack
-"TF_Weapon_DynamitePack"		"Pacco di Dinamite"
-"TF_Weapon_DynamitePack_Desc"	"Entro domani sarete tutti a pezzi."
+"TF_Weapon_DynamitePack"		    "Pacco di Dinamite"
+"TF_Weapon_DynamitePack_Desc"	    "Entro domani sarete tutti a pezzi."
 // Coilgun
-"TF_Weapon_Coilgun"			"Pistola a Bobina"
-"TF_Weapon_Coilgun_Desc"	"Niente bistecca, ma un bel po' di sfrigolio."
+"TF_Weapon_Coilgun"			        "Pistola a Bobina"
+"TF_Weapon_Coilgun_Desc"	        "Niente bistecca, solo un bel po' di sfrigolio."
 // Mine Layer
-"TF_Weapon_MineLayer"		"Lanciamine"
-"TF_Weapon_MineLayer_Desc"	"Mi raccomando occhi aperti! Heh..."
+"TF_Weapon_MineLayer"		        "Lanciamine"
+"TF_Weapon_MineLayer_Desc"	        "Mi raccomando occhi aperti! Heh..."
 // Shock Therapy
-"TF_Weapon_ShockTherapy"		"Terapia Shock"
-"TF_Weapon_ShockTherapy_Desc"	"CHIARO!"
+"TF_Weapon_ShockTherapy"		    "Terapia Shock"
+"TF_Weapon_ShockTherapy_Desc"	    "CHIARO!"
 
 // ----------------------------------------------------------------
 // Fight or Flight weapon strings
 // ----------------------------------------------------------------
 
 // L'escampette
-"TF_Weapon_Lescampette"			"L'escampette"
-"TF_Weapon_Lescampette_Desc"	"Faccio in fretta."
+"TF_Weapon_Lescampette"			    "L'escampette"
+"TF_Weapon_Lescampette_Desc"	    "Facciamo in fretta."
 // Chekhov's Punch
-"TF_Weapon_ChekhovsPunch"		"Pugno di Chekhov"
-"TF_Weapon_ChekhovsPunch_Desc"	"Non piangere! Hai uno scopo narrativo importante nella vita del Grosso!"
+"TF_Weapon_ChekhovsPunch"		    "Pugno di Chekhov"
+"TF_Weapon_ChekhovsPunch_Desc"	    "Non piangere! Hai uno scopo narrativo importante nella vita del Grosso!"
 // Twin Barrel
-"TF_Weapon_TwinBarrel"		"Canna Gemella"
-"TF_Weapon_TwinBarrel_Desc"	"(La garanzia non compre modifiche effettuate dopo l'acquisto.)"
+"TF_Weapon_TwinBarrel"		        "Canna Gemella"
+"TF_Weapon_TwinBarrel_Desc"	        "(La garanzia non compre modifiche effettuate dopo l'acquisto.)"
 // Anti-Aircraft Cannon
 "TF_Weapon_AntiAircraftCannon"		"Cannone Anti-Aereo"
 "TF_Weapon_AntiAircraftCannon_Desc"	"Che pezzo di te Grosso deve mandare a casa da tua mamma?"
 // PDA: Jump Pad
-"TF_Weapon_PDAJumpPad"		"PDA: Trampolino"
-"TF_Weapon_PDAJumpPad_Desc"	"Fidati, compare. Questa qui ti farà vedere le stelle."
+"TF_Weapon_PDAJumpPad"		        "PDA: Trampolino"
+"TF_Weapon_PDAJumpPad_Desc"	        "Fidati, compare. Con questa vedrai le stelle."
 // Harvester
-"TF_Weapon_Harvester"		"Mietitrice"
-"TF_Weapon_Harvester_Desc"	"Non chiedere per chi suona la campana."
+"TF_Weapon_Harvester"		        "Mietitrice"
+"TF_Weapon_Harvester_Desc"	        "Non chiedere per chi suona la campana."
 // Brick
-"TF_Weapon_Brick"		"Mattone"
-"TF_Weapon_Brick_Desc"	"Non credevo che fossi COSÌ lento."
+"TF_Weapon_Brick"		            "Mattone"
+"TF_Weapon_Brick_Desc"	            "Non credevo che fossi COSÌ lento."
 
 // ----------------------------------------------------------------
 // Double Down weapon strings
 // ----------------------------------------------------------------
 
 // Rejuvenator
-"TF_Weapon_Rejuvenator"			"Ringiovanitore"
-"TF_Weapon_Rejuvenator_Desc"	"Cerca di non avvicinarlo agli occhi e alla bocca."
+"TF_Weapon_Rejuvenator"			    "Ringiovanitore"
+"TF_Weapon_Rejuvenator_Desc"	    "Cerca di non avvicinarlo agli occhi e alla bocca."
 // Admiralty Anchor
 "TF_Weapon_AdmiraltyAnchor"			"Ancora dell'Ammiragliato"
-"TF_Weapon_AdmiraltyAnchor_Desc"	"Nessuna battura sulla Marina verrà tolleratà nella mia unità."
+"TF_Weapon_AdmiraltyAnchor_Desc"	"Nessuna battuta sulla Marina verrà tolleratà nella mia unità."
 // Derby Cane
-"TF_Weapon_DerbyCane"		"Bastone dell'Imprenditore"
-"TF_Weapon_DerbyCane_Desc"	"Ti senti motivato, amico? Meglio così."
+"TF_Weapon_DerbyCane"		        "Bastone dell'Imprenditore"
+"TF_Weapon_DerbyCane_Desc"	        "Ti senti motivato, caro mio? Meglio così."
 // Cyclops
-"TF_Weapon_Cyclops"			"Ciclope"
-"TF_Weapon_Cyclops_Desc"	"In una terra di ciechi, il re sei tu."
+"TF_Weapon_Cyclops"			        "Ciclope"
+"TF_Weapon_Cyclops_Desc"	        "In una terra di ciechi, il re sei tu."
 
 // ----------------------------------------------------------------
 // Miscellaneous weapon types
