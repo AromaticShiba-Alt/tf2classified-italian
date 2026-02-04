@@ -269,26 +269,26 @@
 // Heavy
 "Tip_6_Count"	"17"
 // Generic
-"Tip_6_1"		"Press %voicemenu 0 0% to call for a Medic if you get hurt. Nearby Medics will be notified of your need."
-"Tip_6_2"		"Come Grosso, you have more maximum health than any other class. Don't be afraid to head big offensive pushes!"
-"Tip_6_3"		"Come Grosso, you're much slower than other classes. Stay mindful when picking fights with more mobile enemies."
-"Tip_6_4"		"Come Grosso, you're a great Medic buddy. Keep a clear line of sight to your Medic so you can be healed."
-"Tip_6_5"		"Come Grosso, you're a prime target for Spies. Use your arsenal to keep them at bay, and look behind yourself often."
-"Tip_6_6"		"Come Grosso, hold %attack2% to spin up your Minigun or Anti-Aircraft Cannon. Be ready for approaching enemies!"
+"Tip_6_1"		"Premi %voicemenu 0 0% per chiamare un Medico. I Medici nelle vicinanze saranno notificati della tua richiesta."
+"Tip_6_2"		"Come Grosso, hai molto più punti salute rispetto a qualsiasi altra classe. Non avere paura ad essere in prima linea nelle conquiste offensive!"
+"Tip_6_3"		"Come Grosso, sei molto più lento delle altre classi. Stai attento quando ti trovi di fronte a dei nemici molto più mobili."
+"Tip_6_4"		"Come Grosso, sei uno dei migliori amici del Medico. Non perderlo mai di vista affinchè lui ti possa curare."
+"Tip_6_5"		"Come Grosso, sei uno degli obiettivi principali delle Spie. Sfoggia il tuo arsenale per tenerle a bada, e guardati alle spalle!"
+"Tip_6_6"		"Come Grosso, tieni premuto %attack2% per preparare la tua Mitragliatrice o Cannone Anti-Aereo, in modo da essere pronto per in nemici in arrivo!"
 // Stock
-"Tip_6_7"		"Come Grosso, your Minigun chews up a lot of ammo. Pick up ammo packs and fallen weapons to refill your supply."
-"Tip_6_8"		"Come Grosso, you don't lose momentum while spinning up your Minigun in the air. Surprise your enemies by leaping around corners!"
-"Tip_6_9"		"Come Grosso, your Shotgun can deal high burst damage, and allows you to move faster while attacking compared to spinning your Minigun."
-"Tip_6_10"		"Come Grosso, your high health allows you to win most melee fights. Don't be afraid to use your Fists!"
+"Tip_6_7"		"Come Grosso, la tua Mitragliatrice Pesante consuma moltissime munizioni. Raccogli pacchetti di munizioni ed armi cadute per riempire la tua riserva."
+"Tip_6_8"		"Come Grosso, non perdi slancio quando inizi a prepare la tua Mitragliatrice a mezz'aria. Sorprendi i tuoi nemici saltando attorno agli angoli!"
+"Tip_6_9"		"Come Grosso, il tuo Fucile a Pompa può infliggere molti danni in un solo colpo, e ti permette di muoverti molto più velocemente quando attacchi rispetto alla Mitragliatrice."
+"Tip_6_10"		"Come Grosso, la tua alta salute ti permette di vincere la maggior parte dei combattimenti da mischia. Non avere paura di usare le mani!"
 // Death & Taxes
-"Tip_6_11"		"Come Grosso, be sure to find a safe place to eat your Sandvich, otherwise you may be rudely interrupted."
-"Tip_6_12"		"Come Grosso, you can take as many bites as you'd like out of your Sandvich to heal. However, pressing %attack2% to share it with a friend will put it on cooldown."
-"Tip_6_13"		"Come Grosso, be careful where you throw your Sandvich. Both teammates and enemies can pick it up to heal 50%% of their health!"
+"Tip_6_11"		"Come Grosso, assicurati di trovare un posto sicuro dove mangiare il tuo Sandvich, altrimenti potresti essere bruscamente interrotto."
+"Tip_6_12"		"Come Grosso, puoi mangiare il tuo Sandvich quanto vuoi per curarti. Ma premendo %attack2% puoi condividerlo con un amico, dovrai però aspettare prima di usarlo nuovamente."
+"Tip_6_13"		"Come Grosso, attento a dove lanci il tuo Sandvich. Anche i nemici possono raccoglierlo per rigenerare il 50%% della loro salute!"
 // Fight or Flight
-"Tip_6_14"		"Come Grosso, your Anti-Aircraft Cannon deals high burst damage, and is ideal for handling crowds and enemies behind walls."
-"Tip_6_15"		"Come Grosso, your Anti-Aircraft Cannon deals mini-crits to airborne enemies. Use it to knock down Soldiers or enemies using Jump Pads!"
-"Tip_6_16"		"Come Grosso, the Chekhov's Punch will store one crit for each successful hit, up to 3. You can spend stored crits on any weapon!"
-"Tip_6_17"		"Come Grosso, the Chekhov's Punch will cause you to take guaranteed critical damage from enemy melee attacks. Be cautious during close combat."
+"Tip_6_14"		"Come Grosso, il tuo Cannone Anti-Aereo infligge molti danni in un colpo solo, ed è ideale per far fronte ai nemici che si trovano ammassati o dietro ai muri."
+"Tip_6_15"		"Come Grosso, il tuo Cannone Anti-Aereo infligge mini-critici ai nemici a mezz'aria. Usalo per far tornare i Soldati e i vari nemici che usano i Trampolini con i piedi per terra!"
+"Tip_6_16"		"Come Grosso, il Pugno di Chekhov conserverà un colpo critico per ogni colpo andato a segno, con un massimo di 3. Puoi usare i critici conservati con qualsiasi arma!"
+"Tip_6_17"		"Come Grosso, riceverai sempre danno critico dalle armi da mischia nemiche se equipaggi il Pugno di Chekhov. Perciò stai attento al combattimento ravvicinato."
 
 // Pyro
 "Tip_7_Count"	"15"
