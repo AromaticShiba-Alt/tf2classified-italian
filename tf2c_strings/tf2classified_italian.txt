@@ -293,24 +293,24 @@
 // Pyro
 "Tip_7_Count"	"15"
 // Generic
-"Tip_7_1"		"Come Piro, you are mostly immune to burning and fire damage. Use your secondary and melee weapons against enemy Pyros to get a quicker kill."
-"Tip_7_2"		"Come Piro, you can set enemies on fire and quickly retreat, leaving them to die from afterburn."
+"Tip_7_1"		"Come Piro, sei quasi del tutto immune al danno da fuoco e scottatura. Usa la tua arma secondaria e da mischia contro i Piro nemici per assicurarti la vittoria."
+"Tip_7_2"		"Come Piro, puoi mandare i tuoi nemici a fuoco per poi ritirarti velocemente, lasciandoli morire dalle fiamme."
 // Stock
-"Tip_7_3"		"Come Piro, your Flame Thrower deals more damage the closer you are to the enemy."
-"Tip_7_4"		"Come Piro, your Flame Thrower chews up a lot of ammo. Pick up ammo packs and fallen weapons to refill your supply."
-"Tip_7_5"		"Come Piro, ambush enemies to catch them in the short range of your Flame Thrower. Use corners and dropdowns to your advantage."
-"Tip_7_6"		"Come Piro, your Flame Thrower's compression blast is a very useful tool. Press %attack2% to push enemies (including invulnerable ones) away, or into environmental hazards!"
-"Tip_7_7"		"Come Piro, your Flame Thrower can extinguish burning teammates with %attack2%."
-"Tip_7_8"		"Come Piro, switch to your Shotgun if enemies retreat beyond the short range of your Flame Thrower."
-"Tip_7_9"		"Come Piro, your Fire Axe is a great choice for dealing with retreating enemies in close range."
+"Tip_7_3"		"Come Piro, il tuo Lanciafiamme fa più danno quando sei più vicino al nemico."
+"Tip_7_4"		"Come Piro, il tuo Lanciafiamme consuma moltissime munizioni. Raccogli pacchetti di munizioni ed armi cadute per riempire la tua riserva."
+"Tip_7_5"		"Come Piro, tendi imboscate ai nemici per catturarli nel corto raggio del tuo Lanciafiamme. Usa gli angoli e i rialzi a tuo vantaggio."
+"Tip_7_6"		"Come Piro, l'aria compressa  dell tuo Lanciafiamme è uno strumento molto utile. Premi %attack2% per slanciare via i nemici (inclusi quelli invulnerabili), o per spingerli in zone pericolose!"
+"Tip_7_7"		"Come Piro, il tuo Lanciafiamme può estinguere i compagni in fiamme premendo %attack2%."
+"Tip_7_8"		"Come Piro, passa al tuo Fucile a Pompa se i nemici indietreggiano oltre il raggio limitato del tuo Lanciafiamme."
+"Tip_7_9"		"Come Piro, la tua Accetta è un'ottima scelta per far fronte ai nemici a corta distanza che si ritirano."
 // Death & Taxes
-"Tip_7_10"		"Come Piro, your Flare Gun can set enemies on fire at long range. This works well for picking off far away enemies like Snipers."
-"Tip_7_11"		"Come Piro, your Flare Gun has a very small window where it can crit burning enemy Pyros."
+"Tip_7_10"		"Come Piro, la tua Pistola Lanciarazzi può incendiare i nemici a distanza. Questa è un ottimo modo per infastidire i Cecchini in lontananza."
+"Tip_7_11"		"Come Piro, la tua Pistola Lanciarazzi ha una piccolissima finestra di tempo dove può infliggere danno critico ai Piro nemici in fiamme."
 // Fight or Flight
-"Tip_7_12"		"Come Piro, the Twin Barrel can be used to close the gap between you and your target. Propel yourself upward or towards your enemies!"
-"Tip_7_13"		"Come Piro, the Twin Barrel does not deal damage as reliably as your Shotgun. If you're losing in combat, use it to propel yourself away!"
-"Tip_7_14"		"Come Piro, the Harvester can build up a guaranteed melee crit, and allows you to heal from your enemies."
-"Tip_7_15"		"Come Piro, dying with the Harvester equipped will extinguish any enemies you've set on fire."
+"Tip_7_12"		"Come Piro, la Canna Gemella può essere usata per chiudere la distanza tra te e la tua preda. Slanciati in alto o in avanti verso i tuoi nemici!"
+"Tip_7_13"		"Come Piro, la Canna Gemella non è cosi affidabile come il Fucile a Pompa in termini di danno. Sei stai perdendo un combattimento, utilizzala per slanciarti via e ritirarti!"
+"Tip_7_14"		"Come Piro, la Mietitrice può accumulare un colpo critico garantito, permettendoti di curarti dannegiando i tuoi nemici."
+"Tip_7_15"		"Come Piro, se muori con la Mietitrice equipaggiata, tutti i nemici a cui hai dato fuoco verranno estinti dalle fiamme."
 
 // Spy
 "Tip_8_Count"	"15"
