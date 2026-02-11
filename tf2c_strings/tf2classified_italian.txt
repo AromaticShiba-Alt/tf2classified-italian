@@ -57,8 +57,10 @@
 "TF_GreenTeam_Name"				"GRN"
 "TF_YellowTeam_Name"			"YLW"
 
-"TF_Other_Name"					"ALTRO"
+"TF_teamswitch_green"			"Adesso sei un GRN!"
+"TF_teamswitch_yellow"			"Adesso sei un YLW!"
 
+"TF_Other_Name"					"OTHER"
 // Disguise Kit global disguise
 "Hud_Menu_Disguise_GlobalTeam"	"Travestimento Globale: Ogni nemico ti vedrà come membro della sua squadra."
 
@@ -375,9 +377,20 @@
 "Tip_10_8"		"Come Civile, il tuo Ombrello garantisce mini-critici a un compagno a tua scelta. Potenzia le classi che sono capaci di infliggere grandi quantità di danno."
 "Tip_10_9"		"Come Civile, i mini-critici garatiti dal tuo Ombrello potenzieranno anche i Medici, aumentando il loro tasso di cura e il guadagno dell'ÜberCarica"
 // Double Down
-"Tip_10_10"		"Come Civile, il tuo Bastone dell'Imprenditore può essere usato per potenziare la rapidità dei tuoi compagni. Ciò li rende in grado di sparare e muoversi molto più velocemente."
-"Tip_10_11"		"Come Civile, il tuo Bastone dell'Imprenditore potenzia il tasso di cura dei Medici e la velocità di costruzione degli Ingegneri."
+"Tip_10_10"		"Come Civile, il tuo Bastone dell'Imprenditore può essere usato per potenziare la rapidità dei tuoi compagni di squadra. Ciò gli permetti di muoversi e sparare molto più velocemente."
+"Tip_10_11"		"Come Civile, il tuo Bastone dell'Imprenditore potenzierà anche il tasso di cura dei Medici e la velocità di costruzione degli Ingegneri."
 
+// Arena
+"Tip_arena_Count"		"9"
+"Tip_arena_1"			"In Arena, tieni d'occhio il numero di giocatori nella parte alta dello schermo. Ti aiuterà a capire se sei in vantaggio!"
+"Tip_arena_2"			"In Arena, non ci sono tanti modi per recuperare salute, perciò assicurati di proteggere i tuoi Medici e Ingegneri (e di condividere il tuo Sandvich!)"
+"Tip_arena_3"			"In Arena, il Punto di Controllo al centro della mappa si attiverà dopo 60 secondi dall'inizio del round. Usalo per attirare i nemici nascosti!"
+"Tip_arena_4"			"In Arena, non tornerai in gioco una volta morto, quindi occhio a non morire!"
+"Tip_arena_5"			"In Arena, prova a diversificare il tuo portfolio! Complementa la composizione della tua squadra oppure distruggi quella del nemico."
+"Tip_arena_6"			"In Arena, puoi cambiare classe solo all'inizio della partita o prima che i cancelli si aprano."
+"Tip_arena_7"			"In Arena, rimani vicino alla tua squadra per aiutarla nei momenti di pericolo. Arrivare troppo tardi durante un combattimento può metterti in svantaggio."
+"Tip_arena_8"			"In Arena, fa si che il nemico non riesca a curarsi. I Medici e i Dispenser nemici sono degli obiettivi di priorità. Ruba anche i medikit se possibile!"
+"Tip_arena_9"			"In Arena, ricevere il Primo Sangue garantisce un potenziamento di critici. Se lo ottieni, sfruttalo al meglio! Se invece lo ottiene un nemico, nasconditi e aspetta che si esaurisca."
 // ----------------------------------------------------------------
 // Stock weapon strings
 // ----------------------------------------------------------------
@@ -1235,24 +1248,26 @@ Le squadre che possiedono i Punti di Controllo iniziali sono scelti casualmente 
 "TF2c_OptionCategory_CustomizationMultiplayer"			"Personabilizzazione"
 "TF2c_OptionCategory_Network"							"NETWORK"
 
-"TF2c_MuteUnfocused"					"Muta non selezionato"
+"TF2c_MuteUnfocused"					"Muta quando non in primo piano"
 
-"TF2c_Options_Custom"					"Personalizzato"
-
+"TF2c_Options_Custom"					"Personalizzate"
 "TF2c_ChatFilterSettingsButton"			"Apri Impostazioni"
 
-"GameUI_CloseWithoutSaving"				"Chiudi Senza Salvare"
-"GameUI_CloseWithoutSavingText" 		"Sei sicuro di voler chiudere?\n Tutto ciò che hai modificato verra perso!"
+"GameUI_CloseWithoutSaving"				"Chiudi senza Salvare"
+"GameUI_CloseWithoutSavingText" 		"Sei sicuro di voler chiudere?\n Tutte le modifiche non salvate andranno perse!"
 "GameUI_Legacy"							"Menu Originale"
-"GameUI_Effect_Detail"          		"Dettaglio Effetti"
-"GameUI_VeryLow"               			"Molto Basso"
+"GameUI_Effect_Detail"          		"Dettagli degli effetti"
+"GameUI_VeryLow"               			"Molto basso"
 "GameUI_Off"               				"Disattivato"
 "GameUI_Everyone"               		"Tutti"
-"GameUI_FriendsOnly"               		"Solo Amici"
+"GameUI_FriendsOnly"               		"Solo gli amici"
 
 "GameUI_Restart"						"Richiede il riavvio"
-"GameUI_RestartText"					"Alcune modifiche effettuate richiedono il riavvio del gioco."
-"GameUI_OptionsRestart_Revert"			"Annulla Modifiche"
+"GameUI_RestartText"					"Alcune modifiche richiedono il riavvio del gioco:"
+"GameUI_OptionsRestart_Revert"			"Annulla modifiche"
+
+"GameUI_Disconnect_TooManyCommands"		"Disconnessione: Troppi comandi.
+
 
 // Combat
 "TF2C_Option_DamageFeedback"				"Abilita Feedback del Danno"
@@ -1345,17 +1360,21 @@ Le squadre che possiedono i Punti di Controllo iniziali sono scelti casualmente 
 "TF_ModelMuzzleFlash_Tip"			    "Se abilitato, i bagliori degli spari useranno dei modelli al posto di particelle"
 
 // Voice
-"TF2c_Option_Proximity_Voice_Local"	    "Abilita Chat Vocale in Prossimità"
-// MULTIPLAYER
-"TF_DownloadFilter_Title"			    "Permessi per file personalizzati scaricati dai server"
-"GameUI_DownloadFilter_All"			    "Permetti tutti i file personalizzati"
-"GameUI_DownloadFilter_NoSounds"	    "Niente suoni personalizzati"
-"GameUI_DownloadFilter_MapsOnly"	    "Solo file di mappe"
-"GameUI_DownloadFilter_None"		    "Niente file personalizzati"
+"TF2c_Option_Proximity_Voice_Local"	"Abilita Chat Vocale in Prossimità"
 
-"TF_Network_Rate"       			    "Frequenza di Aggiornamento della Rete"
-"TF_Network_Rate_Tip"       		    "Imposta la frequenza di aggiornamento della rete, che imposta inversamente la quantità di interpolazione.\n\nSi consiglia di provare ognuna e osservare quale abbia le migliori prestazioni con la tua connesione."
-
+// Multiplayer
+"TF_MessageAlert"				    "Abilita suono del messaggio in chat"
+"TF_MessageAlert_Tip"			    "Se abilitato, sentirai un suono ogni volta che ricevi un messaggio in chat"
+"TF_MessageVolume"				    "Volume del messaggio in chat"
+"TF_ChatCloseOnSend"				"Chiudi chat una volta inviato un messaggio"
+"TF_ChatCloseOnSend_Tip"			"Se abilitato, la chat verrà chiusa una volta che il tuo messaggio è stato inviato"
+"TF_DownloadFilter_Title"			"Permessi per i file personalizzati provienti dai server"
+"GameUI_DownloadFilter_All"			"Permetti tutti i file personalizzati"
+"GameUI_DownloadFilter_NoSounds"	"Niente suoni personalizzati"
+"GameUI_DownloadFilter_MapsOnly"	"Solo file di mappe"
+"GameUI_DownloadFilter_None"		"Nessun tipo di file"
+"TF_Network_Rate"       			"Frequenza di aggiornamento della rete"
+"TF_Network_Rate_Tip"       		"Imposta la frequenza di aggiornamento della rete, che imposta inversamente la quantità d'interpolazione.\n\nSi consiglia di provare le varie opzioni per trovare la più ottimale per la propria connessione."
 // Video
 "TF2c_Option_BloomScale"	            "Scala del Bloom"
 
